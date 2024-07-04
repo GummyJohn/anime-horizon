@@ -16,22 +16,22 @@ const Home = () => {
   const images = [
     {
       id: 1, 
-      url: '../public/girl-7628308_1920.jpg', 
+      url: '/girl-7628308_1920.jpg', 
       element: <AnimeHorizon/>
     },
     {
       id: 2,
-      url: '../public/sunset-7628289_1920.jpg', 
+      url: '/sunset-7628289_1920.jpg', 
       element: <CharacterExplore/>
     },
     {
       id: 3,
-      url: '../public/man-7628305_1920.jpg', 
+      url: '/man-7628305_1920.jpg', 
       element: <RecommendationTxt/>
     },
     {
       id: 4,
-      url: '../public/backpacker-7628303_1920.jpg', 
+      url: '/backpacker-7628303_1920.jpg', 
       element: <Background/>
     },
   ]
