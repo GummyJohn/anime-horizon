@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background-color: black;
+}
+
+.navbar{
+  background-image: url('./img/girl-7628308_1920.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:top ;
+}
+
+.bar::-webkit-scrollbar{
+  width: 0px;
+}
+
