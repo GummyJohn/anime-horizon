@@ -8,7 +8,7 @@ body{
 }
 
 .navbar{
-  background-image: url('./img/girl-7628308_1920.jpg');
+  background-image: url('../public/girl-7628308_1920.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position:top ;
