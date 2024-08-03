@@ -29,6 +29,10 @@ Dive into Anime Horizon and elevate your anime and manga journey!
     <code>git clone https://github.com/j0hnnyli/anime-horizon.git</code>
   </li>
   <li>
+    Change Directory
+    <code>cd anime-horizon</code>
+  </li>
+  <li>
     Start up to the Project
     <code>npm run dev</code>
   </li>
