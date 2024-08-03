@@ -23,6 +23,7 @@ Features include:
 Dive into Anime Horizon and elevate your anime and manga journey!
 
 ## How To Set Up
+
 <ol>
   <li>
     Clone the Repository in VsCode: 
@@ -35,5 +36,9 @@ Dive into Anime Horizon and elevate your anime and manga journey!
   <li>
     Start up to the Project
     <code>npm run dev</code>
+  </li>
+  <li>
+    If you get a error : 'vite command not found', run <code>npm install vite</code>
+    and repeat step 3
   </li>
 </ol>
