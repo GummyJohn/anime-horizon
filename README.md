@@ -26,14 +26,10 @@ Dive into Anime Horizon and elevate your anime and manga journey!
 <ol>
   <li>
     Clone the Repository in VsCode: 
-    <code>
-      git clone https://github.com/j0hnnyli/anime-horizon.git
-    </code>
+    <code>git clone https://github.com/j0hnnyli/anime-horizon.git</code>
   </li>
   <li>
     Start up to the Project
-    <code>
-      npm run dev
-    </code>
+    <code>npm run dev</code>
   </li>
 </ol>
